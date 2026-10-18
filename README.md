@@ -67,15 +67,13 @@ I build AI automation, agents, and LLM pipelines that keep working when models, 
 <img alt="06 On GitHub" src="assets/sections/activity.svg" width="100%">
 
 <p align="center">
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hira299&count_private=true&include_all_commits=true&show_icons=true&hide_rank=true&hide_border=true&custom_title=GitHub&bg_color=151116&title_color=F4B8C8&text_color=9B9094&icon_color=C1304A" height="165">
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hira299&layout=compact&langs_count=6&hide_border=true&custom_title=Most%20used&bg_color=151116&title_color=F4B8C8&text_color=9B9094" height="165">
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hira299&count_private=true&include_all_commits=true&show_icons=true&hide_rank=true&hide_border=true&custom_title=GitHub&bg_color=14161D&title_color=E6B8CB&text_color=8F93A3&icon_color=9C5B78" height="165">
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hira299&layout=compact&langs_count=6&hide_border=true&custom_title=Most%20used&bg_color=14161D&title_color=E6B8CB&text_color=8F93A3" height="165">
 </p>
 
 <p align="center">
-<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=hira299&hide_border=true&background=151116&stroke=2D2328&ring=C1304A&fire=F4B8C8&currStreakNum=EFE7E9&sideNums=EFE7E9&currStreakLabel=F4B8C8&sideLabels=9B9094&dates=9B9094" height="165">
+<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=hira299&hide_border=true&background=14161D&stroke=272A35&ring=9C5B78&fire=E6B8CB&currStreakNum=E9E6EC&sideNums=E9E6EC&currStreakLabel=E6B8CB&sideLabels=8F93A3&dates=8F93A3" height="165">
 </p>
-
-<img alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=hira299&area=true&hide_border=true&custom_title=Contribution%20activity&height=240&bg_color=0D1117&color=9B9094&title_color=F4B8C8&line=C1304A&point=F4B8C8&area_color=8E1F30" width="100%">
 
 <img alt="Contribution snake" src="https://raw.githubusercontent.com/hira299/hira299/output/snake-dark.svg" width="100%">
 
