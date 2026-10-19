@@ -14,20 +14,13 @@ I build AI automation, agents, and LLM pipelines that keep working when models, 
 
 <br>
 
-<img alt="01 Flagship work" src="assets/sections/flagship.svg" width="100%">
+<img alt="Flagship work" src="assets/sections/flagship.svg" width="100%">
 
-<p>
-<a href="https://hiraahmed.me/case-studies/28k-record-pipeline/"><img alt="28K+ production AI enrichment pipeline" src="assets/cards/techpotion.svg" width="49%"></a>
-<a href="https://hiraahmed.me/case-studies/cloud-compliance/"><img alt="Cloud compliance and AI auditing engine" src="assets/cards/compliance.svg" width="49%"></a>
-</p>
-<p>
-<a href="https://hiraahmed.me/case-studies/multitenant-saas-qa/"><img alt="PharmaConnect multi-tenant B2B SaaS QA" src="assets/cards/pharma.svg" width="49%"></a>
-<a href="https://hiraahmed.me/case-studies/sentinel-mesh/"><img alt="Sentinel-Mesh research" src="assets/cards/sentinel.svg" width="49%"></a>
-</p>
+<p><a href="https://hiraahmed.me/case-studies/28k-record-pipeline/"><img align="top" alt="28K+ production AI enrichment pipeline" src="assets/projects/techpotion.svg" width="100%"></a><a href="https://hiraahmed.me/case-studies/cloud-compliance/"><img align="top" alt="Cloud compliance and AI auditing engine" src="assets/projects/compliance.svg" width="100%"></a><a href="https://hiraahmed.me/case-studies/multitenant-saas-qa/"><img align="top" alt="PharmaConnect multi-tenant B2B SaaS QA" src="assets/projects/pharma.svg" width="100%"></a><a href="https://hiraahmed.me/case-studies/sentinel-mesh/"><img align="top" alt="Sentinel-Mesh research" src="assets/projects/sentinel.svg" width="100%"></a></p>
 
 <p align="center"><sub>Also: 34% monthly AWS cost reduction (Lambda, RDS PostgreSQL, API Gateway). Full archive at <a href="https://hiraahmed.me/case-studies/">hiraahmed.me</a></sub></p>
 
-<img alt="02 Research" src="assets/sections/research.svg" width="100%">
+<img alt="Research" src="assets/sections/research.svg" width="100%">
 
 **Sentinel-Mesh** remediates Terraform cloud-security misconfigurations. An LLM proposes a patch, a Z3 SMT verifier checks it against explicit security invariants, and a rejected patch's counterexample goes back to the model for another attempt. **The model only proposes. The verifier decides.**
 
@@ -39,17 +32,17 @@ I build AI automation, agents, and LLM pipelines that keep working when models, 
 
 [Preprint](https://www.researchsquare.com/article/rs-10674271/latest) · [CloudFix-Bench on Zenodo](https://doi.org/10.5281/zenodo.20975067) · [Code](https://github.com/hira299/sentinel-mesh) · [Medium article](https://medium.com/@hira299/beyond-heuristics-formally-verifying-ai-generated-infrastructure-with-z3-smt-solvers-e95fd3a7bf95) · [Web of Science](https://www.webofscience.com/wos/author/record/QIV-1552-2026) · [ORCID](https://orcid.org/0009-0005-3219-7252)
 
-<img alt="03 What I do" src="assets/sections/expertise.svg" width="100%">
+<img alt="What I do" src="assets/sections/expertise.svg" width="100%">
 
 <img alt="AI automation and agents, LLM pipelines and RAG, backend and cloud, QA and reliability" src="assets/pillars.svg" width="100%">
 
 <p align="center"><sub>Python · FastAPI · PostgreSQL · n8n · LangGraph · LangChain · Groq · Gemini · AWS (EC2, Lambda, EventBridge, SQS, RDS, S3) · Terraform · Docker · Supabase</sub></p>
 
-<img alt="04 Where I've worked" src="assets/sections/experience.svg" width="100%">
+<img alt="Where I've worked" src="assets/sections/experience.svg" width="100%">
 
 <img alt="QA Lead and Backend and Automation Engineer at TechPotion.ai, QA Intern at Sadiq.ai, Sentinel-Mesh research, B.S. Cybersecurity" src="assets/journey.svg" width="100%">
 
-<img alt="05 Independent builds" src="assets/sections/builds.svg" width="100%">
+<img alt="Independent builds" src="assets/sections/builds.svg" width="100%">
 
 | Project | What it shows |
 |---|---|
@@ -64,20 +57,7 @@ I build AI automation, agents, and LLM pipelines that keep working when models, 
 
 **Open resources:** [n8n-production-resilience-patterns](https://github.com/hira299/n8n-production-resilience-patterns) (retries, DLQs, idempotency, replay) · [enterprise-multitenant-qa-matrix](https://github.com/hira299/enterprise-multitenant-qa-matrix) (isolation, RBAC, API and business-logic test matrices)
 
-<img alt="06 On GitHub" src="assets/sections/activity.svg" width="100%">
-
-<p align="center">
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hira299&count_private=true&include_all_commits=true&show_icons=true&hide_rank=true&hide_border=true&custom_title=GitHub&bg_color=14161D&title_color=E6B8CB&text_color=8F93A3&icon_color=9C5B78" height="165">
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hira299&layout=compact&langs_count=6&hide_border=true&custom_title=Most%20used&bg_color=14161D&title_color=E6B8CB&text_color=8F93A3" height="165">
-</p>
-
-<p align="center">
-<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=hira299&hide_border=true&background=14161D&stroke=272A35&ring=9C5B78&fire=E6B8CB&currStreakNum=E9E6EC&sideNums=E9E6EC&currStreakLabel=E6B8CB&sideLabels=8F93A3&dates=8F93A3" height="165">
-</p>
-
-<img alt="Contribution snake" src="https://raw.githubusercontent.com/hira299/hira299/output/snake-dark.svg" width="100%">
-
-<img alt="07 Let's talk" src="assets/sections/talk.svg" width="100%">
+<img alt="Let's talk" src="assets/sections/talk.svg" width="100%">
 
 <a href="mailto:hira229922@gmail.com"><img alt="Need resilient AI pipelines or high-assurance QA? hira229922@gmail.com" src="assets/cta.svg" width="100%"></a>
 
