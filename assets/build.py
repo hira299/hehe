@@ -40,8 +40,8 @@ PROJECTS = [
      "Four status-gated LLM stages with 9-language translation. Zero schema drift in production.",
      "28K+", "live records processed"),
     ("compliance", "Independent build", "Cloud Compliance Engine",
-     "Autonomous multi-account AWS audit across S3, IAM and GuardDuty, grounded with Corrective RAG.",
-     "3", "AWS services audited"),
+     "Autonomous multi-account AWS audit: 60+ checks across services, mapped to the official AWS benchmark.",
+     "60+", "automated security checks"),
     ("pharma", "B2B SaaS QA", "PharmaConnect Lead QA",
      "20 end-to-end journeys across 15 modules, with API-level evidence and 75 closed fixes.",
      "110+", "defects documented"),
@@ -190,7 +190,7 @@ def bez(p0, p1, p2, p3, t):
 
 
 def hero():
-    H = 340
+    H = 290
     css = [css_base(), ".name{font-size:64px;font-weight:700;letter-spacing:-.025em}.role{font-size:24px;font-weight:600}"
            ".line{font-size:18px}.meta{font-size:13px}.status{font-size:12px;letter-spacing:.1em}.gate{font-size:11px;letter-spacing:.1em}"
            "@keyframes r{0%{opacity:0;transform:translateY(8px)}5%{opacity:1;transform:none}28%{opacity:1;transform:none}"
@@ -210,8 +210,7 @@ def hero():
                   f'<text x="{nx-20:.1f}" y="{ny+4:.1f}" text-anchor="end" class="mono gate muted">{name}</text>')
     motif += (f'<circle r="13" fill="{PINK}" opacity=".16"><animateMotion dur="7s" repeatCount="indefinite" path="{path}"/></circle>'
               f'<circle r="5" fill="{PINK}"><animateMotion dur="7s" repeatCount="indefinite" path="{path}"/></circle>')
-    waves = (wave_fill(280, 22, H, PLUM, .08, 28, 0) + wave_fill(298, 18, H, ROSE, .07, 20, -7) + wave_fill(318, 14, H, PINK, .08, 15, -3))
-    body = (waves + motif +
+    body = (motif +
             f'<g class="up" style="animation-delay:.1s"><circle cx="12" cy="40" r="3.5" fill="{ROSE}"/>'
             f'<text x="26" y="44" class="sans status muted">AVAILABLE FOR ENGAGEMENTS</text></g>'
             f'<text x="4" y="124" class="sans name fg up" style="animation-delay:.3s">Hira Ahmed<tspan class="pink">.</tspan></text>'
